@@ -1,6 +1,6 @@
 # PowerBi-Project
 
-This dashboard helps analyse various things:
+This dashboard is giving the following Insights:
 
 1)Which product is contributing to the profit and which product is accounting to the
 loss of the store?
